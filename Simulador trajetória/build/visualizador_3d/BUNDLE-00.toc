@@ -1,0 +1,4 @@
+([('visualizador_3d',
+   '/Users/joao_eberle/Documents/VScode/Fegsat/Simulador '
+   'trajetória/dist/visualizador_3d',
+   'EXECUTABLE')],)
